@@ -12,6 +12,4 @@ public interface Calculator {
     int wholeDivide(int a, int b);
 
 
-
-
 }
