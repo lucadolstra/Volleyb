@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class CalculatorController {
 
     @Autowired
-    private Calculator calculator;      //to mock it you need to use the interface
+    private Calculator calculator;      //to mock it you need to use the interface and autowired
 
 
 
